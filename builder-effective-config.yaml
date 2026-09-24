@@ -1,0 +1,27 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.bauth.authenticator
+productName: BAUTH Authenticator
+win:
+  icon: logo.ico
+publish:
+  - provider: github
+    owner: bebertclaudeiabetter-hub
+    repo: BAUTH-Source-code
+    releaseType: release
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+  createDesktopShortcut: true
+  createStartMenuShortcut: true
+  runAfterFinish: true
+  shortcutName: BAUTH Authenticator
+  installerLanguages:
+    - fr-FR
+  language: '1036'
+  installerHeader: installer-header.bmp
+  installerSidebar: installer-sidebar.bmp
+  uninstallerSidebar: uninstaller-sidebar.bmp
+files: []
+electronVersion: 38.8.6

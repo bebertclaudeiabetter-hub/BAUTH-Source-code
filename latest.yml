@@ -1,0 +1,8 @@
+version: 1.0.5
+files:
+  - url: BAUTH-Authenticator-Setup-1.0.5.exe
+    sha512: rWl/MiTD2HsLVtR5TfYJD18gGlr16VMPFO0Ifk6anMq0m6Nn3ajxY+fai93kDAHSp5SGQqGiRefltGk9zmdrsA==
+    size: 187732694
+path: BAUTH-Authenticator-Setup-1.0.5.exe
+sha512: rWl/MiTD2HsLVtR5TfYJD18gGlr16VMPFO0Ifk6anMq0m6Nn3ajxY+fai93kDAHSp5SGQqGiRefltGk9zmdrsA==
+releaseDate: '2026-09-24T06:58:30.621Z'
